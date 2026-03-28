@@ -21,7 +21,7 @@ TECH STACK
  ->C++
  ->OPEN SOURCE 
 
- -> CONNENT ME WITH 
+ -> CONNECT ME WITH 
  Linkedin: https://www.linkedin.com/in/kusumavenkatesh/
 
 LETS BUILD TOGETHER!!!
