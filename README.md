@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Kusuma V
+# Hello World! 👋 I'm KUSUMA V
 
 🎓 ECE Student @ REVA University, Bengaluru  
 💻 ECE × Software | C++ • DSA • Full-Stack Web Dev  
